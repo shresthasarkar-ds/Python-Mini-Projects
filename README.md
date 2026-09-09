@@ -11,6 +11,9 @@ File: `budget_calculate.py`
 
 Calculates total expenses, remaining balance, and estimated savings over a selected number of days. It uses income, rent, travel, and food expenses to provide a simple budget summary.
 
+<img width="620" height="218" alt="Screenshot 2026-09-09 111841" src="https://github.com/user-attachments/assets/13801155-0f88-487f-99e2-18a596d6adb4" />
+
+
 ### 2. Loan EMI Calculator💵
 
 File: `emi_calculation.py`
