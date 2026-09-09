@@ -20,11 +20,18 @@ File: `emi_calculation.py`
 
 Calculates the monthly EMI, total interest payable, and total repayment amount based on the loan amount, tenure, and annual interest rate.
 
+<img width="491" height="242" alt="Screenshot 2026-09-09 112121" src="https://github.com/user-attachments/assets/98f15275-ecde-44c5-b244-e16f19a5fb76" />
+
+
 ### 3. Mini Banking System🏦
 
 File: `mini_banking.py`
 
 A menu-based banking application that allows users to deposit money, withdraw money, check their balance, and exit safely.
+
+<img width="402" height="736" alt="Screenshot 2026-09-09 112447" src="https://github.com/user-attachments/assets/1db31408-e4b3-446e-b577-e940706ccdc0" />
+<img width="463" height="157" alt="Screenshot 2026-09-09 112502" src="https://github.com/user-attachments/assets/6fd06b9a-4e61-47ac-9e58-5e7205439fbf" />
+
 
 ### 4. Password Strength Checker🔑
 
@@ -32,17 +39,26 @@ File: `password_strength_checker.py`
 
 Checks whether a password is weak, medium, or strong by evaluating its length and the use of uppercase letters, lowercase letters, numbers, and special characters.
 
+<img width="472" height="72" alt="Screenshot 2026-09-09 112911" src="https://github.com/user-attachments/assets/b1b1aeb5-956f-467a-9375-982034fcab03" />
+
+
 ### 5. Student Grade Calculator👩‍🎓
 
 File: `student_grade_calculator.py`
 
 Accepts marks for three subjects, calculates the total and average, and assigns a grade based on the final result.
 
+<img width="410" height="265" alt="Screenshot 2026-09-09 113148" src="https://github.com/user-attachments/assets/2f48c458-f862-4917-a5b0-62d10ed9af01" />
+
+
 ### 6. Temperature Converter🌡️
 
 File: `temperature_converter.py`
 
 Converts temperatures between Celsius and Fahrenheit with user input validation.
+
+<img width="390" height="485" alt="Screenshot 2026-09-09 113348" src="https://github.com/user-attachments/assets/baefd275-7fe7-462b-b033-4ec52b0ac691" />
+
 
 ## How to Run
 
